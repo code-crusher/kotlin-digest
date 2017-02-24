@@ -14,6 +14,9 @@ Collection of awesome articles, podcasts and tricks about Kotlin!
 ## Podcasts
  * [Talking Kotlin](http://talkingkotlin.com/)
 
+## Official Links
+ * [kotlinlang.org](http://kotlinlang.org/)
+ 
 # How To Contribute
 
 1. Add a Item as follows:
@@ -21,3 +24,8 @@ Collection of awesome articles, podcasts and tricks about Kotlin!
 
 2. The item should fall under the appropriate category. Make a Pull request so that I can review your changes NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 
+# Contact me
+Let's connect and discuss things related to development :) 
+
+ * Twitter: [Vatsal Bajpai](https://twitter.com/Vatsal__Bajpai)
+ * Email: vatsal.bajpai05@gmail.com
