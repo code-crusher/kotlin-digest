@@ -4,6 +4,7 @@ Collection of awesome articles, podcasts and tricks about Kotlin!
 ## Articles
 ### General
  * [Why Kotlin is my next programming language](https://blog.plan99.net/why-kotlin-is-my-next-programming-language-c25c001e26e3#.cca0g1bw3) - Mike Hearn
+ * [Comparision with Java](https://kotlinlang.org/docs/reference/comparison-to-java.html) - kotlinlang.org
  
 ### Android
  * [Setting up Kotlin in Android Studio](https://medium.com/@code_crusher/setting-up-kotlin-in-android-studio-d8cc9f4e9108#.2iry1h5qy) - Vatsal Bajpai
@@ -30,7 +31,7 @@ Collection of awesome articles, podcasts and tricks about Kotlin!
 # How To Contribute
 
 1. Add a Item as follows:
-[**Article name describing the context**] with (link)
+[**Article name describing the context**] with (link) - [author_name]
 
 2. The item should fall under the appropriate category. Make a Pull request so that I can review your changes NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 
