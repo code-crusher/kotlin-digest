@@ -14,6 +14,9 @@ Collection of awesome articles, podcasts and tricks about Kotlin!
 ## Podcasts
  * [Talking Kotlin](http://talkingkotlin.com/)
 
+## Books
+ * [Kotlin in Action](https://www.manning.com/books/kotlin-in-action)
+
 ## Official Links
  * [kotlinlang.org](http://kotlinlang.org/)
  
