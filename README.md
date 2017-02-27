@@ -14,6 +14,7 @@ Collection of awesome articles, podcasts and tricks about Kotlin!
 ### Web
  * [Spring Boot applications with Kotlin](https://spring.io/blog/2016/02/15/developing-spring-boot-applications-with-kotlin) - Spring.io
  * [Writing a RESTful backend using Kotlin and Spring Boot](https://medium.com/@dime.kotevski/writing-a-restful-backend-using-kotlin-and-spring-boot-9f162c96e428) - Dimitar Kotevski
+ 
 ## Tips & Tricks
  * [Handle Android Intent extras with Kotlin](https://medium.com/@workingkills/you-wont-believe-this-one-weird-trick-to-handle-android-intent-extras-with-kotlin-845ecf09e0e9#.gvfm7dt8p) - Eugenio Marletti
  
